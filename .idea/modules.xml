@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BookAppExam.iml" filepath="$PROJECT_DIR$/.idea/modules/BookAppExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BookAppExam_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BookAppExam_main.iml" group="BookAppExam" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BookAppExam_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BookAppExam_test.iml" group="BookAppExam" />
+    </modules>
+  </component>
+</project>
